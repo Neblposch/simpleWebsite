@@ -19,14 +19,14 @@ body {
     justify-content: space-between;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(135deg, #f6e8df, #ffe6e1);
+    background: linear-gradient(135deg, #dff3f6, #ffe6e1);
     color: #333;
     text-align: center;
 }
 
 /* Header */
 .header {
-    background: #b3544e;
+    background: #4e66b3;
     width: 100%;
     padding: 15px 0;
     color: white;
@@ -66,7 +66,7 @@ body {
     padding: 30px;
     margin-bottom: 20px;
     font-size: 1.5rem;
-    color: #7d5750;
+    color: #50587d;
     font-weight: bold;
     text-transform: uppercase;
     display: flex;
@@ -80,7 +80,7 @@ body {
 
 /* Generate Button */
 .generate-btn {
-    background: #b3544e;
+    background: #4e93b3;
     color: #ffffff;
     padding: 15px 40px;
     border: none;
@@ -99,7 +99,7 @@ body {
 
 /* Footer */
 .footer {
-    background: #b3544e;
+    background: #4e8eb3;
     width: 100%;
     padding: 10px 0;
     color: white;
